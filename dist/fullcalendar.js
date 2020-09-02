@@ -13368,7 +13368,7 @@ var TimeGridEventRenderer = /** @class */ (function (_super) {
                     '</div>' :
                 '') +
             '</div>' +
-            '<div class="fc-bg"/>' +
+            '<div class="fc-bg"></div>' +
             /* TODO: write CSS for this
             (isResizableFromStart ?
               '<div class="fc-resizer fc-start-resizer" />' :
